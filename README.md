@@ -2,7 +2,6 @@
 
 An aspect-based sentiment analysis tool for student feedback, built with Flask, NLTK, and TextBlob.
 
-> Group 12 · Intro to Intelligent Systems (INF 402) · Dr. Patrick Gyaase
 >
 > **Status: Work in progress** — still being built out by the team.
 
