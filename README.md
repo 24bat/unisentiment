@@ -27,8 +27,6 @@ It also handles:
 |---|---|
 | `main.py` | Flask app — dashboard, routes, request handling |
 | `sentiment_engine.py` | All NLP logic — tokenization, scoring, negation, sarcasm, aspects, insights, alerts |
-| `Technical_Report__1.pdf` | Architecture and implementation write-up |
-| `Project_Report.pdf` | Full project report — methodology, testing, results |
 
 ## Running it
 
@@ -38,6 +36,3 @@ python main.py
 ```
 
 The app starts a local Flask server and opens the dashboard in your browser.
-
-See `Technical_Report__1.pdf` for architecture details and known limitations, and
-`Project_Report.pdf` for methodology, results, and recommendations.
